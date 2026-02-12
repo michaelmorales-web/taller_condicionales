@@ -12,7 +12,7 @@
 $r = = 0$
 
 ### Variables de salida
-- su numero es
+- rta
 
 ## Diseño
 
