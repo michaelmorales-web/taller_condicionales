@@ -4,12 +4,12 @@
 ## Análisis
 
 ### Variables de entrada
-- n : número entero
+- x : número entero
 
 ### Procesamiento
-- r : n % 2
+- mod: % 2
 
-$r = = 0$
+$mod = = 0$
 
 ### Variables de salida
 - rta

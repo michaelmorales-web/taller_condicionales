@@ -4,17 +4,17 @@
 ## Análisis
 
 ### Variables de entrada
-- n: número entero
+- x: número entero
 
 ### Procesamiento
-- n1 = (n//100)%10
-- n2 = (n//1000)%10
+- ultimo_digito = x %10
+- penultimo_digito = (x/10)%10
 
-$n1==n2$
+$ultimo_digito==penultimo_digito$
 
 ### Variables de salida
-- iguales
-- no iguales
+- IGUALES
+- DIFERENTES
 
 ## Diseño
 
